@@ -1,18 +1,13 @@
 - <h1 align="center">👋 Hi, I’m Mariam , You can call me Mary :)</h1>
-- <h3 align="center">A passionate frontend developer from <strong>Morocco 🇲🇦 </strong></h3>
+- <h3 align="center">An ambitious frontend developer from <strong>Morocco 🇲🇦 </strong></h3>
 - 👩‍🎓 Bachelor in Business & Management , 
 - 🎥 Creating & Editing YT videos, 
 - 🌱 I’m currently learning HTML & CSS 
 - 💞️ I’m looking to collaborate on website designing - editing videos
 - 🧠 Multilingual
 
-  <br> 📫 How to reach me: <br>
-<a href="https://www.instagram.com/mariamaizane_official/">Insta</a> <br>
-<a href="https://twitter.com/AizaneIrene">Twitter</a> <br> 
-<a href="https://rb.gy/xdoctn">Youtube</a> <br>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AizaneIrene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariam irene aizane" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mariamaizane_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theycallmemary" height="30" width="40" /></a>
