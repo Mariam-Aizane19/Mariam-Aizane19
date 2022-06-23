@@ -1,0 +1,65 @@
+
+/* - White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+- Font size (paragraph): 15px
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit) */
+
+body{
+    background-color:rgb(197, 207, 231);
+    text-align: center;
+    display: block;}
+
+.qr-code{
+    width: 260px;
+    height: 260px;
+    padding:9px;
+    border-radius: 18px;}
+
+.qr-full{
+    text-align: center;
+    align-content: center;
+    padding: 8px;
+    background-color: white;
+    width:280px;
+    height:auto;
+    border-radius: 18px;
+    margin-left: 39%;
+    margin-top:8%;}
+
+div .text{
+    margin-left:10px;
+    margin-right:10px;
+    font-family:sans-serif;}
+
+p{
+    font-size: 15px; 
+    color:gray}
+
+.attribution{
+    font-family:'Times New Roman', Times, serif;}
+
+.attribution a{
+    color: blue;
+    text-decoration: underline;}
+@media screen and (max-width: 1000px) {
+    .qr-full{ margin-left:35%; }
+    }
+
+@media screen and (max-width: 810px) {
+        .qr-full{ margin-left:30%; }
+        }
+
+@media screen and (max-width: 560px) {
+            .qr-full{ margin-left:22%; }
+            }
+@media screen and (max-width: 480px) {
+                .qr-full{ margin-left:16%; }
+                }
+@media screen and (max-width:388px) {
+                .qr-full{ margin-left:5%; }
+                    }                  
+@media screen and (max-width:325px) {
+                .qr-full{ margin-left:0%; }
+                            } 
